@@ -1,3 +1,6 @@
+Backup of no longer existing https://github.com/grafa/fiobank.git
+
+
 # fiobank
 
 Little library implementing [Fio Bank API](http://www.fio.cz/bank-services/internetbanking-api) in Python.
